@@ -3,6 +3,10 @@
     {
       "directory": "./memo-front",
       "changeProcessCWD": true,
-    }
+    },
+    {
+      "directory": "./memo-back",
+      "changeProcessCWD": true,
+    },
   ]
 }
